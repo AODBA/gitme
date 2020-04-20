@@ -3,3 +3,7 @@ def add(x,y):
 
 def minus(x,y):
     pass
+
+def multiply(x,y):
+    pass
+
