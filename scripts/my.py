@@ -7,3 +7,6 @@ def minus(x,y):
 def multiply(x,y):
     pass
 
+def module(x,y):
+    pass
+
